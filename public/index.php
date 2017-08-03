@@ -58,3 +58,5 @@ $response->send();
 $kernel->terminate($request, $response);
 
 /*solo para chequear*/
+/*esta cagada me tiene boludo*/
+
