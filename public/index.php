@@ -68,3 +68,6 @@ $kernel->terminate($request, $response);
 /*y sigo nomas*/
 
 /*matias se la come*/
+
+
+/*solo mensajes*/
