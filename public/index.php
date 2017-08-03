@@ -60,6 +60,6 @@ $kernel->terminate($request, $response);
 /*solo para chequear*/
 /*esta cagada me tiene boludo*/
 /*lssssss*/
-/*...sdiodoiisdois*/
 /*son todos putos*/
-
+/*...sdiodoiisdois*/
+/*no entiendo*/
